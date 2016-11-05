@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bancoDados;
+package controler;
 
 import static java.lang.Character.UnicodeBlock.forName;
 import java.sql.Connection;
